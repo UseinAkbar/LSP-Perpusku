@@ -16,7 +16,7 @@ Usein: Anggota, Peminjaman
 <ul>
 <li>Laravel UI</li>
 <li>Bootstrap</li>
-<li>Template Ruang Admin</li>
+<li>Dashboard Ruang Admin</li>
 <li>FontAwesome</li>
 <li>DataTables</li>
 <li>DomPDF</li>
