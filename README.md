@@ -16,12 +16,12 @@ Usein: Anggota, Peminjaman
 <ul>
 <li>Laravel UI</li>
 <li>Bootstrap</li>
-<li>FontAwesome</li>
-<li>sweet-alert</li>
 <li>Template Ruang Admin</li>
-<li>Select2 untuk multiple select</li>
+<li>FontAwesome</li>
 <li>DataTables</li>
 <li>DomPDF</li>
+<li>sweet-alert</li>
+<li>Select2</li>
 </ul>
 
 # Fitur Requirements :
